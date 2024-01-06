@@ -11,4 +11,5 @@
 | 3.   | [Анализ текстов](x) | Анализ комментариев пользователей на токсичность             | python, pandas, numpy, nltk, sklearn, CatBoost |
 | 3.   | [Анализ текстов](x) | Анализ комментариев пользователей на токсичность             | python, pandas, numpy, nltk, sklearn, CatBoost |
 | 3.   | [Анализ текстов](x) | Анализ комментариев пользователей на токсичность             | python, pandas, numpy, nltk, sklearn, CatBoost |
-| 3.   | [Анализ текстов](x) | Анализ комментариев пользователей на токсичность             | python, pandas, numpy, nltk, sklearn, CatBoost |
+| 8.   | [Прогнозирование заказов такси](https://github.com/StepanMirenkov/portfolio/tree/main/taxi_ordering_prediction) | Компания такси собрала исторические данные о заказах такси в аэропортах. Чтобы привлекать больше водителей в период пиковой нагрузки, нужно спрогнозировать количество заказов такси на следующий час. Проект описывает процесс построения модели для такого предсказания.
+|python, pandas, scikit-learn, statsmodels, catboost|
